@@ -7,4 +7,4 @@ spring:
     zookeeper:
       connect-string: 192.168.1.195:2181
 config:
-  info: "12222222222233131"
+  info: "666666666666666"
